@@ -1,6 +1,9 @@
 ## About
 
-This template includes following setups:
+A Nextjs 13 Template with a few popular and regularly used libraries already setup in case I need it
+so I dont need to search for setup documentation and can look in my own project instead.
+
+This template includes following libs:
 
 - Redux
 - Prisma
